@@ -16,7 +16,7 @@ pip
 
 **Setup**
 Clone the repository:
-git clone https://github.com/yourusername/heart-prediction-django.git
+git clone https://github.com/SurajChadha001/Projects_001.git
 
 cd heart-prediction-django
 
